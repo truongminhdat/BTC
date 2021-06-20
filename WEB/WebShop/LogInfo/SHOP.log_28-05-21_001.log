@@ -1,0 +1,20 @@
+
+[Information] == [28/05/2021 12:29:03 PM]
+KhachHangs -- Create-Post
+System.Data.Entity.Validation.DbEntityValidationException: Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+   at System.Data.Entity.Internal.InternalContext.SaveChanges()
+   at System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   at System.Data.Entity.DbContext.SaveChanges()
+   at baitapcuoiki.DAO.DonHangDao.Insert(HOADON entityHang) in E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\DAO\DonHangDao.cs:line 37
+   at WebShop.Areas.Admin.Controllers.DonHangsController.Create(HOADON model) in E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\Areas\Admin\Controllers\DonHangsController.cs:line 59
+
+
+[Information] == [28/05/2021 12:29:04 PM]
+KhachHangs -- Create-Post
+System.Data.Entity.Validation.DbEntityValidationException: Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+   at System.Data.Entity.Internal.InternalContext.SaveChanges()
+   at System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   at System.Data.Entity.DbContext.SaveChanges()
+   at baitapcuoiki.DAO.DonHangDao.Insert(HOADON entityHang) in E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\DAO\DonHangDao.cs:line 37
+   at WebShop.Areas.Admin.Controllers.DonHangsController.Create(HOADON model) in E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\Areas\Admin\Controllers\DonHangsController.cs:line 59
+

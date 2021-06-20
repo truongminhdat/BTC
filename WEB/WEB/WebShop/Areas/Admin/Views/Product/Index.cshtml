@@ -1,0 +1,103 @@
+﻿@model PagedList.IPagedList<baitapcuoiki.EF.Product>
+@using PagedList.Mvc
+@using PagedList
+@{
+    ViewBag.Title = "Quản Lí Sản Phẩm";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+@section header{
+    <i class="fa fa-user"></i>&nbsp;Quản Lý Sản Phẩm
+}
+@using (Html.BeginForm("Index", "Product", FormMethod.Post))
+{
+
+    <div class="col-lg-12" form-group>
+        <div class="col-md-6">
+            @Html.ActionLink("Tạo Mới", "Create", "Product", new { @class = "btn btn-danger" })
+
+        </div>
+        <div class="col-md-4">
+            <input type="text" value="@ViewBag.SearchString" name="searchString" placeholder="Nhập từ khóa cần tìm" class="form-control" />
+        </div>
+        <div class="col-md-2">
+            <input type="submit" value="Tìm Kiếm" class="btn btn-default" />
+        </div>
+    </div>
+}
+    <div class="col-lg-12" form-group, style="margin-top: 15px">
+        <table class="table">
+            <tr>
+                <th>Thao Tác</th>
+                <th>
+                    Mã Sản Phẩm
+                </th>
+                <th>
+                    Tên Sản Phẩm
+                </th>
+                <th>
+                    Đơn giá
+                </th>
+                <th>
+                    Số Lượng
+                </th>
+                <th>
+                    Hình ảnh
+                </th>
+                <th>
+                    Miêu tả
+                </th>
+                <th>
+                    Trạng thái
+                </th>
+                <th>
+                   Loại Sản Phẩm
+                </th>
+                <th></th>
+            </tr>
+
+            @foreach (var item in Model)
+            {
+            <tr id="row_@item.ID">
+                <td>
+                    <a href="~/Admin/Product/Create/@item.ID"><i class="fa fa-refresh"></i></a>&nbsp;
+                    @Ajax.ActionLink("Xóa","Delete", new { @id = item.ID}, new AjaxOptions
+                    {
+                   Confirm= "Bạn có muốn xóa bản ghi này ?",
+                   OnComplete ="$('#row_"+item.ID+"').remove()",
+                   HttpMethod = "Delete"
+                    }, new { @class ="glyphicon glyphicon-trash"}
+                   )
+                    </td>
+                <td>
+                    @item.ID
+                </td>
+                <td>
+                    @item.Name
+                </td>
+                <td>
+                    @item.UnitCost
+                </td>
+                <td>
+                    @item.Quantity
+                </td>
+                <td>
+                    <img src="@Url.Content("~/HinhanhSP/" +item.Image)" width="50" height="50" />
+
+                </td>
+                <td>
+                    @item.Description
+                </td>
+                <td>
+                    @item.Status
+                </td>
+                <td>
+                    <a href="@Url.Action("Index","Category")">@item.CategoryID</a>
+                </td>
+                <td></td>
+            </tr>
+            }
+
+        </table>
+        @Html.PagedListPager((IPagedList)Model, page => Url.Action("Index", new { page, @searchString = @ViewBag.SearchString }))
+    </div>

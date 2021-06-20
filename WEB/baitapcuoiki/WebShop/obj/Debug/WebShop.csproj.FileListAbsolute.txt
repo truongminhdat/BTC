@@ -1,0 +1,532 @@
+C:\Users\Tranchi\OneDrive\Máy tính\bt cuoi ki\baitapcuoiki\WebShop\bin\WebShop.dll.config
+C:\Users\Tranchi\OneDrive\Máy tính\bt cuoi ki\baitapcuoiki\WebShop\bin\WebShop.dll
+C:\Users\Tranchi\OneDrive\Máy tính\bt cuoi ki\baitapcuoiki\WebShop\bin\WebShop.pdb
+C:\Users\Tranchi\OneDrive\Máy tính\bt cuoi ki\baitapcuoiki\WebShop\bin\roslyn\csc.exe
+C:\Users\Tranchi\OneDrive\Máy tính\bt cuoi ki\baitapcuoiki\WebShop\bin\roslyn\csc.exe.config
+C:\Users\Tranchi\OneDrive\Máy tính\bt cuoi ki\baitapcuoiki\WebShop\bin\roslyn\csc.rsp
+C:\Users\Tranchi\OneDrive\Máy tính\bt cuoi ki\baitapcuoiki\WebShop\bin\roslyn\csi.exe
+C:\Users\Tranchi\OneDrive\Máy tính\bt cuoi ki\baitapcuoiki\WebShop\bin\roslyn\csi.exe.config
+C:\Users\Tranchi\OneDrive\Máy tính\bt cuoi ki\baitapcuoiki\WebShop\bin\roslyn\csi.rsp
+C:\Users\Tranchi\OneDrive\Máy tính\bt cuoi ki\baitapcuoiki\WebShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Tranchi\OneDrive\Máy tính\bt cuoi ki\baitapcuoiki\WebShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Tranchi\OneDrive\Máy tính\bt cuoi ki\baitapcuoiki\WebShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Tranchi\OneDrive\Máy tính\bt cuoi ki\baitapcuoiki\WebShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Tranchi\OneDrive\Máy tính\bt cuoi ki\baitapcuoiki\WebShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Tranchi\OneDrive\Máy tính\bt cuoi ki\baitapcuoiki\WebShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Tranchi\OneDrive\Máy tính\bt cuoi ki\baitapcuoiki\WebShop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Tranchi\OneDrive\Máy tính\bt cuoi ki\baitapcuoiki\WebShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Tranchi\OneDrive\Máy tính\bt cuoi ki\baitapcuoiki\WebShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Tranchi\OneDrive\Máy tính\bt cuoi ki\baitapcuoiki\WebShop\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Tranchi\OneDrive\Máy tính\bt cuoi ki\baitapcuoiki\WebShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Tranchi\OneDrive\Máy tính\bt cuoi ki\baitapcuoiki\WebShop\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Tranchi\OneDrive\Máy tính\bt cuoi ki\baitapcuoiki\WebShop\bin\roslyn\System.AppContext.dll
+C:\Users\Tranchi\OneDrive\Máy tính\bt cuoi ki\baitapcuoiki\WebShop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Tranchi\OneDrive\Máy tính\bt cuoi ki\baitapcuoiki\WebShop\bin\roslyn\System.Console.dll
+C:\Users\Tranchi\OneDrive\Máy tính\bt cuoi ki\baitapcuoiki\WebShop\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Tranchi\OneDrive\Máy tính\bt cuoi ki\baitapcuoiki\WebShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Tranchi\OneDrive\Máy tính\bt cuoi ki\baitapcuoiki\WebShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Tranchi\OneDrive\Máy tính\bt cuoi ki\baitapcuoiki\WebShop\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Tranchi\OneDrive\Máy tính\bt cuoi ki\baitapcuoiki\WebShop\bin\roslyn\System.IO.Compression.dll
+C:\Users\Tranchi\OneDrive\Máy tính\bt cuoi ki\baitapcuoiki\WebShop\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Tranchi\OneDrive\Máy tính\bt cuoi ki\baitapcuoiki\WebShop\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Tranchi\OneDrive\Máy tính\bt cuoi ki\baitapcuoiki\WebShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Tranchi\OneDrive\Máy tính\bt cuoi ki\baitapcuoiki\WebShop\bin\roslyn\System.Net.Http.dll
+C:\Users\Tranchi\OneDrive\Máy tính\bt cuoi ki\baitapcuoiki\WebShop\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Tranchi\OneDrive\Máy tính\bt cuoi ki\baitapcuoiki\WebShop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Tranchi\OneDrive\Máy tính\bt cuoi ki\baitapcuoiki\WebShop\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Tranchi\OneDrive\Máy tính\bt cuoi ki\baitapcuoiki\WebShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Tranchi\OneDrive\Máy tính\bt cuoi ki\baitapcuoiki\WebShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Tranchi\OneDrive\Máy tính\bt cuoi ki\baitapcuoiki\WebShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Tranchi\OneDrive\Máy tính\bt cuoi ki\baitapcuoiki\WebShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Tranchi\OneDrive\Máy tính\bt cuoi ki\baitapcuoiki\WebShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Tranchi\OneDrive\Máy tính\bt cuoi ki\baitapcuoiki\WebShop\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Tranchi\OneDrive\Máy tính\bt cuoi ki\baitapcuoiki\WebShop\bin\roslyn\System.ValueTuple.dll
+C:\Users\Tranchi\OneDrive\Máy tính\bt cuoi ki\baitapcuoiki\WebShop\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Tranchi\OneDrive\Máy tính\bt cuoi ki\baitapcuoiki\WebShop\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Tranchi\OneDrive\Máy tính\bt cuoi ki\baitapcuoiki\WebShop\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Tranchi\OneDrive\Máy tính\bt cuoi ki\baitapcuoiki\WebShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Tranchi\OneDrive\Máy tính\bt cuoi ki\baitapcuoiki\WebShop\bin\roslyn\vbc.exe
+C:\Users\Tranchi\OneDrive\Máy tính\bt cuoi ki\baitapcuoiki\WebShop\bin\roslyn\vbc.exe.config
+C:\Users\Tranchi\OneDrive\Máy tính\bt cuoi ki\baitapcuoiki\WebShop\bin\roslyn\vbc.rsp
+C:\Users\Tranchi\OneDrive\Máy tính\bt cuoi ki\baitapcuoiki\WebShop\bin\roslyn\VBCSCompiler.exe
+C:\Users\Tranchi\OneDrive\Máy tính\bt cuoi ki\baitapcuoiki\WebShop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Tranchi\OneDrive\Máy tính\bt cuoi ki\baitapcuoiki\WebShop\bin\Antlr3.Runtime.dll
+C:\Users\Tranchi\OneDrive\Máy tính\bt cuoi ki\baitapcuoiki\WebShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Tranchi\OneDrive\Máy tính\bt cuoi ki\baitapcuoiki\WebShop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Tranchi\OneDrive\Máy tính\bt cuoi ki\baitapcuoiki\WebShop\bin\Newtonsoft.Json.dll
+C:\Users\Tranchi\OneDrive\Máy tính\bt cuoi ki\baitapcuoiki\WebShop\bin\System.Web.Helpers.dll
+C:\Users\Tranchi\OneDrive\Máy tính\bt cuoi ki\baitapcuoiki\WebShop\bin\System.Web.Mvc.dll
+C:\Users\Tranchi\OneDrive\Máy tính\bt cuoi ki\baitapcuoiki\WebShop\bin\System.Web.Optimization.dll
+C:\Users\Tranchi\OneDrive\Máy tính\bt cuoi ki\baitapcuoiki\WebShop\bin\System.Web.Razor.dll
+C:\Users\Tranchi\OneDrive\Máy tính\bt cuoi ki\baitapcuoiki\WebShop\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Tranchi\OneDrive\Máy tính\bt cuoi ki\baitapcuoiki\WebShop\bin\System.Web.WebPages.dll
+C:\Users\Tranchi\OneDrive\Máy tính\bt cuoi ki\baitapcuoiki\WebShop\bin\System.Web.WebPages.Razor.dll
+C:\Users\Tranchi\OneDrive\Máy tính\bt cuoi ki\baitapcuoiki\WebShop\bin\WebGrease.dll
+C:\Users\Tranchi\OneDrive\Máy tính\bt cuoi ki\baitapcuoiki\WebShop\bin\System.Web.Helpers.xml
+C:\Users\Tranchi\OneDrive\Máy tính\bt cuoi ki\baitapcuoiki\WebShop\bin\System.Web.Mvc.xml
+C:\Users\Tranchi\OneDrive\Máy tính\bt cuoi ki\baitapcuoiki\WebShop\bin\System.Web.Optimization.xml
+C:\Users\Tranchi\OneDrive\Máy tính\bt cuoi ki\baitapcuoiki\WebShop\bin\System.Web.Razor.xml
+C:\Users\Tranchi\OneDrive\Máy tính\bt cuoi ki\baitapcuoiki\WebShop\bin\System.Web.WebPages.xml
+C:\Users\Tranchi\OneDrive\Máy tính\bt cuoi ki\baitapcuoiki\WebShop\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Tranchi\OneDrive\Máy tính\bt cuoi ki\baitapcuoiki\WebShop\bin\System.Web.WebPages.Razor.xml
+C:\Users\Tranchi\OneDrive\Máy tính\bt cuoi ki\baitapcuoiki\WebShop\bin\Newtonsoft.Json.xml
+C:\Users\Tranchi\OneDrive\Máy tính\bt cuoi ki\baitapcuoiki\WebShop\bin\Antlr3.Runtime.pdb
+C:\Users\Tranchi\OneDrive\Máy tính\bt cuoi ki\baitapcuoiki\WebShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Tranchi\OneDrive\Máy tính\bt cuoi ki\baitapcuoiki\WebShop\obj\Debug\WebShop.csprojAssemblyReference.cache
+C:\Users\Tranchi\OneDrive\Máy tính\bt cuoi ki\baitapcuoiki\WebShop\obj\Debug\WebShop.csproj.CoreCompileInputs.cache
+C:\Users\Tranchi\OneDrive\Máy tính\bt cuoi ki\baitapcuoiki\WebShop\obj\Debug\WebShop.csproj.CopyComplete
+C:\Users\Tranchi\OneDrive\Máy tính\bt cuoi ki\baitapcuoiki\WebShop\obj\Debug\WebShop.dll
+C:\Users\Tranchi\OneDrive\Máy tính\bt cuoi ki\baitapcuoiki\WebShop\obj\Debug\WebShop.pdb
+C:\Users\Tranchi\OneDrive\Máy tính\bt cuoi ki\baitapcuoiki\WebShop\bin\baitapcuoiki.dll
+C:\Users\Tranchi\OneDrive\Máy tính\bt cuoi ki\baitapcuoiki\WebShop\bin\EntityFramework.dll
+C:\Users\Tranchi\OneDrive\Máy tính\bt cuoi ki\baitapcuoiki\WebShop\bin\baitapcuoiki.pdb
+C:\Users\Tranchi\OneDrive\Máy tính\bt cuoi ki\baitapcuoiki\WebShop\bin\baitapcuoiki.dll.config
+C:\Users\Tranchi\OneDrive\Máy tính\bt cuoi ki\baitapcuoiki\WebShop\bin\EntityFramework.xml
+C:\Users\Tranchi\OneDrive\Máy tính\bt cuoi ki\baitapcuoiki\WebShop\bin\EntityFramework.SqlServer.dll
+C:\Users\Tranchi\OneDrive\Máy tính\bt cuoi ki\baitapcuoiki\WebShop\bin\EntityFramework.SqlServer.xml
+C:\Users\Tranchi\Downloads\bt cuoi ki\baitapcuoiki\WebShop\bin\WebShop.dll.config
+C:\Users\Tranchi\Downloads\bt cuoi ki\baitapcuoiki\WebShop\bin\WebShop.dll
+C:\Users\Tranchi\Downloads\bt cuoi ki\baitapcuoiki\WebShop\bin\WebShop.pdb
+C:\Users\Tranchi\Downloads\bt cuoi ki\baitapcuoiki\WebShop\bin\roslyn\csc.exe
+C:\Users\Tranchi\Downloads\bt cuoi ki\baitapcuoiki\WebShop\bin\roslyn\csc.exe.config
+C:\Users\Tranchi\Downloads\bt cuoi ki\baitapcuoiki\WebShop\bin\roslyn\csc.rsp
+C:\Users\Tranchi\Downloads\bt cuoi ki\baitapcuoiki\WebShop\bin\roslyn\csi.exe
+C:\Users\Tranchi\Downloads\bt cuoi ki\baitapcuoiki\WebShop\bin\roslyn\csi.exe.config
+C:\Users\Tranchi\Downloads\bt cuoi ki\baitapcuoiki\WebShop\bin\roslyn\csi.rsp
+C:\Users\Tranchi\Downloads\bt cuoi ki\baitapcuoiki\WebShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Tranchi\Downloads\bt cuoi ki\baitapcuoiki\WebShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Tranchi\Downloads\bt cuoi ki\baitapcuoiki\WebShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Tranchi\Downloads\bt cuoi ki\baitapcuoiki\WebShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Tranchi\Downloads\bt cuoi ki\baitapcuoiki\WebShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Tranchi\Downloads\bt cuoi ki\baitapcuoiki\WebShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Tranchi\Downloads\bt cuoi ki\baitapcuoiki\WebShop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Tranchi\Downloads\bt cuoi ki\baitapcuoiki\WebShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Tranchi\Downloads\bt cuoi ki\baitapcuoiki\WebShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Tranchi\Downloads\bt cuoi ki\baitapcuoiki\WebShop\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Tranchi\Downloads\bt cuoi ki\baitapcuoiki\WebShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Tranchi\Downloads\bt cuoi ki\baitapcuoiki\WebShop\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Tranchi\Downloads\bt cuoi ki\baitapcuoiki\WebShop\bin\roslyn\System.AppContext.dll
+C:\Users\Tranchi\Downloads\bt cuoi ki\baitapcuoiki\WebShop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Tranchi\Downloads\bt cuoi ki\baitapcuoiki\WebShop\bin\roslyn\System.Console.dll
+C:\Users\Tranchi\Downloads\bt cuoi ki\baitapcuoiki\WebShop\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Tranchi\Downloads\bt cuoi ki\baitapcuoiki\WebShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Tranchi\Downloads\bt cuoi ki\baitapcuoiki\WebShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Tranchi\Downloads\bt cuoi ki\baitapcuoiki\WebShop\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Tranchi\Downloads\bt cuoi ki\baitapcuoiki\WebShop\bin\roslyn\System.IO.Compression.dll
+C:\Users\Tranchi\Downloads\bt cuoi ki\baitapcuoiki\WebShop\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Tranchi\Downloads\bt cuoi ki\baitapcuoiki\WebShop\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Tranchi\Downloads\bt cuoi ki\baitapcuoiki\WebShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Tranchi\Downloads\bt cuoi ki\baitapcuoiki\WebShop\bin\roslyn\System.Net.Http.dll
+C:\Users\Tranchi\Downloads\bt cuoi ki\baitapcuoiki\WebShop\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Tranchi\Downloads\bt cuoi ki\baitapcuoiki\WebShop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Tranchi\Downloads\bt cuoi ki\baitapcuoiki\WebShop\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Tranchi\Downloads\bt cuoi ki\baitapcuoiki\WebShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Tranchi\Downloads\bt cuoi ki\baitapcuoiki\WebShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Tranchi\Downloads\bt cuoi ki\baitapcuoiki\WebShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Tranchi\Downloads\bt cuoi ki\baitapcuoiki\WebShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Tranchi\Downloads\bt cuoi ki\baitapcuoiki\WebShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Tranchi\Downloads\bt cuoi ki\baitapcuoiki\WebShop\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Tranchi\Downloads\bt cuoi ki\baitapcuoiki\WebShop\bin\roslyn\System.ValueTuple.dll
+C:\Users\Tranchi\Downloads\bt cuoi ki\baitapcuoiki\WebShop\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Tranchi\Downloads\bt cuoi ki\baitapcuoiki\WebShop\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Tranchi\Downloads\bt cuoi ki\baitapcuoiki\WebShop\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Tranchi\Downloads\bt cuoi ki\baitapcuoiki\WebShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Tranchi\Downloads\bt cuoi ki\baitapcuoiki\WebShop\bin\roslyn\vbc.exe
+C:\Users\Tranchi\Downloads\bt cuoi ki\baitapcuoiki\WebShop\bin\roslyn\vbc.exe.config
+C:\Users\Tranchi\Downloads\bt cuoi ki\baitapcuoiki\WebShop\bin\roslyn\vbc.rsp
+C:\Users\Tranchi\Downloads\bt cuoi ki\baitapcuoiki\WebShop\bin\roslyn\VBCSCompiler.exe
+C:\Users\Tranchi\Downloads\bt cuoi ki\baitapcuoiki\WebShop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Tranchi\Downloads\bt cuoi ki\baitapcuoiki\WebShop\bin\Antlr3.Runtime.dll
+C:\Users\Tranchi\Downloads\bt cuoi ki\baitapcuoiki\WebShop\bin\baitapcuoiki.dll
+C:\Users\Tranchi\Downloads\bt cuoi ki\baitapcuoiki\WebShop\bin\EntityFramework.dll
+C:\Users\Tranchi\Downloads\bt cuoi ki\baitapcuoiki\WebShop\bin\EntityFramework.SqlServer.dll
+C:\Users\Tranchi\Downloads\bt cuoi ki\baitapcuoiki\WebShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Tranchi\Downloads\bt cuoi ki\baitapcuoiki\WebShop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Tranchi\Downloads\bt cuoi ki\baitapcuoiki\WebShop\bin\Newtonsoft.Json.dll
+C:\Users\Tranchi\Downloads\bt cuoi ki\baitapcuoiki\WebShop\bin\System.Web.Helpers.dll
+C:\Users\Tranchi\Downloads\bt cuoi ki\baitapcuoiki\WebShop\bin\System.Web.Mvc.dll
+C:\Users\Tranchi\Downloads\bt cuoi ki\baitapcuoiki\WebShop\bin\System.Web.Optimization.dll
+C:\Users\Tranchi\Downloads\bt cuoi ki\baitapcuoiki\WebShop\bin\System.Web.Razor.dll
+C:\Users\Tranchi\Downloads\bt cuoi ki\baitapcuoiki\WebShop\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Tranchi\Downloads\bt cuoi ki\baitapcuoiki\WebShop\bin\System.Web.WebPages.dll
+C:\Users\Tranchi\Downloads\bt cuoi ki\baitapcuoiki\WebShop\bin\System.Web.WebPages.Razor.dll
+C:\Users\Tranchi\Downloads\bt cuoi ki\baitapcuoiki\WebShop\bin\WebGrease.dll
+C:\Users\Tranchi\Downloads\bt cuoi ki\baitapcuoiki\WebShop\bin\baitapcuoiki.pdb
+C:\Users\Tranchi\Downloads\bt cuoi ki\baitapcuoiki\WebShop\bin\baitapcuoiki.dll.config
+C:\Users\Tranchi\Downloads\bt cuoi ki\baitapcuoiki\WebShop\bin\EntityFramework.xml
+C:\Users\Tranchi\Downloads\bt cuoi ki\baitapcuoiki\WebShop\bin\EntityFramework.SqlServer.xml
+C:\Users\Tranchi\Downloads\bt cuoi ki\baitapcuoiki\WebShop\bin\System.Web.Helpers.xml
+C:\Users\Tranchi\Downloads\bt cuoi ki\baitapcuoiki\WebShop\bin\System.Web.Mvc.xml
+C:\Users\Tranchi\Downloads\bt cuoi ki\baitapcuoiki\WebShop\bin\System.Web.Optimization.xml
+C:\Users\Tranchi\Downloads\bt cuoi ki\baitapcuoiki\WebShop\bin\System.Web.Razor.xml
+C:\Users\Tranchi\Downloads\bt cuoi ki\baitapcuoiki\WebShop\bin\System.Web.WebPages.xml
+C:\Users\Tranchi\Downloads\bt cuoi ki\baitapcuoiki\WebShop\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Tranchi\Downloads\bt cuoi ki\baitapcuoiki\WebShop\bin\System.Web.WebPages.Razor.xml
+C:\Users\Tranchi\Downloads\bt cuoi ki\baitapcuoiki\WebShop\bin\Newtonsoft.Json.xml
+C:\Users\Tranchi\Downloads\bt cuoi ki\baitapcuoiki\WebShop\bin\Antlr3.Runtime.pdb
+C:\Users\Tranchi\Downloads\bt cuoi ki\baitapcuoiki\WebShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Tranchi\Downloads\bt cuoi ki\baitapcuoiki\WebShop\obj\Debug\WebShop.csprojAssemblyReference.cache
+C:\Users\Tranchi\Downloads\bt cuoi ki\baitapcuoiki\WebShop\obj\Debug\WebShop.csproj.CoreCompileInputs.cache
+C:\Users\Tranchi\Downloads\bt cuoi ki\baitapcuoiki\WebShop\obj\Debug\WebShop.csproj.CopyComplete
+C:\Users\Tranchi\Downloads\bt cuoi ki\baitapcuoiki\WebShop\obj\Debug\WebShop.dll
+C:\Users\Tranchi\Downloads\bt cuoi ki\baitapcuoiki\WebShop\obj\Debug\WebShop.pdb
+C:\Users\Tranchi\Downloads\btcuoiki\baitapcuoiki\WebShop\bin\WebShop.dll.config
+C:\Users\Tranchi\Downloads\btcuoiki\baitapcuoiki\WebShop\bin\WebShop.dll
+C:\Users\Tranchi\Downloads\btcuoiki\baitapcuoiki\WebShop\bin\WebShop.pdb
+C:\Users\Tranchi\Downloads\btcuoiki\baitapcuoiki\WebShop\bin\roslyn\csc.exe
+C:\Users\Tranchi\Downloads\btcuoiki\baitapcuoiki\WebShop\bin\roslyn\csc.exe.config
+C:\Users\Tranchi\Downloads\btcuoiki\baitapcuoiki\WebShop\bin\roslyn\csc.rsp
+C:\Users\Tranchi\Downloads\btcuoiki\baitapcuoiki\WebShop\bin\roslyn\csi.exe
+C:\Users\Tranchi\Downloads\btcuoiki\baitapcuoiki\WebShop\bin\roslyn\csi.exe.config
+C:\Users\Tranchi\Downloads\btcuoiki\baitapcuoiki\WebShop\bin\roslyn\csi.rsp
+C:\Users\Tranchi\Downloads\btcuoiki\baitapcuoiki\WebShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Tranchi\Downloads\btcuoiki\baitapcuoiki\WebShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Tranchi\Downloads\btcuoiki\baitapcuoiki\WebShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Tranchi\Downloads\btcuoiki\baitapcuoiki\WebShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Tranchi\Downloads\btcuoiki\baitapcuoiki\WebShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Tranchi\Downloads\btcuoiki\baitapcuoiki\WebShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Tranchi\Downloads\btcuoiki\baitapcuoiki\WebShop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Tranchi\Downloads\btcuoiki\baitapcuoiki\WebShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Tranchi\Downloads\btcuoiki\baitapcuoiki\WebShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Tranchi\Downloads\btcuoiki\baitapcuoiki\WebShop\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Tranchi\Downloads\btcuoiki\baitapcuoiki\WebShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Tranchi\Downloads\btcuoiki\baitapcuoiki\WebShop\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Tranchi\Downloads\btcuoiki\baitapcuoiki\WebShop\bin\roslyn\System.AppContext.dll
+C:\Users\Tranchi\Downloads\btcuoiki\baitapcuoiki\WebShop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Tranchi\Downloads\btcuoiki\baitapcuoiki\WebShop\bin\roslyn\System.Console.dll
+C:\Users\Tranchi\Downloads\btcuoiki\baitapcuoiki\WebShop\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Tranchi\Downloads\btcuoiki\baitapcuoiki\WebShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Tranchi\Downloads\btcuoiki\baitapcuoiki\WebShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Tranchi\Downloads\btcuoiki\baitapcuoiki\WebShop\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Tranchi\Downloads\btcuoiki\baitapcuoiki\WebShop\bin\roslyn\System.IO.Compression.dll
+C:\Users\Tranchi\Downloads\btcuoiki\baitapcuoiki\WebShop\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Tranchi\Downloads\btcuoiki\baitapcuoiki\WebShop\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Tranchi\Downloads\btcuoiki\baitapcuoiki\WebShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Tranchi\Downloads\btcuoiki\baitapcuoiki\WebShop\bin\roslyn\System.Net.Http.dll
+C:\Users\Tranchi\Downloads\btcuoiki\baitapcuoiki\WebShop\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Tranchi\Downloads\btcuoiki\baitapcuoiki\WebShop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Tranchi\Downloads\btcuoiki\baitapcuoiki\WebShop\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Tranchi\Downloads\btcuoiki\baitapcuoiki\WebShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Tranchi\Downloads\btcuoiki\baitapcuoiki\WebShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Tranchi\Downloads\btcuoiki\baitapcuoiki\WebShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Tranchi\Downloads\btcuoiki\baitapcuoiki\WebShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Tranchi\Downloads\btcuoiki\baitapcuoiki\WebShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Tranchi\Downloads\btcuoiki\baitapcuoiki\WebShop\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Tranchi\Downloads\btcuoiki\baitapcuoiki\WebShop\bin\roslyn\System.ValueTuple.dll
+C:\Users\Tranchi\Downloads\btcuoiki\baitapcuoiki\WebShop\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Tranchi\Downloads\btcuoiki\baitapcuoiki\WebShop\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Tranchi\Downloads\btcuoiki\baitapcuoiki\WebShop\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Tranchi\Downloads\btcuoiki\baitapcuoiki\WebShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Tranchi\Downloads\btcuoiki\baitapcuoiki\WebShop\bin\roslyn\vbc.exe
+C:\Users\Tranchi\Downloads\btcuoiki\baitapcuoiki\WebShop\bin\roslyn\vbc.exe.config
+C:\Users\Tranchi\Downloads\btcuoiki\baitapcuoiki\WebShop\bin\roslyn\vbc.rsp
+C:\Users\Tranchi\Downloads\btcuoiki\baitapcuoiki\WebShop\bin\roslyn\VBCSCompiler.exe
+C:\Users\Tranchi\Downloads\btcuoiki\baitapcuoiki\WebShop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Tranchi\Downloads\btcuoiki\baitapcuoiki\WebShop\bin\Antlr3.Runtime.dll
+C:\Users\Tranchi\Downloads\btcuoiki\baitapcuoiki\WebShop\bin\baitapcuoiki.dll
+C:\Users\Tranchi\Downloads\btcuoiki\baitapcuoiki\WebShop\bin\EntityFramework.dll
+C:\Users\Tranchi\Downloads\btcuoiki\baitapcuoiki\WebShop\bin\EntityFramework.SqlServer.dll
+C:\Users\Tranchi\Downloads\btcuoiki\baitapcuoiki\WebShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Tranchi\Downloads\btcuoiki\baitapcuoiki\WebShop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Tranchi\Downloads\btcuoiki\baitapcuoiki\WebShop\bin\Newtonsoft.Json.dll
+C:\Users\Tranchi\Downloads\btcuoiki\baitapcuoiki\WebShop\bin\System.Web.Helpers.dll
+C:\Users\Tranchi\Downloads\btcuoiki\baitapcuoiki\WebShop\bin\System.Web.Mvc.dll
+C:\Users\Tranchi\Downloads\btcuoiki\baitapcuoiki\WebShop\bin\System.Web.Optimization.dll
+C:\Users\Tranchi\Downloads\btcuoiki\baitapcuoiki\WebShop\bin\System.Web.Razor.dll
+C:\Users\Tranchi\Downloads\btcuoiki\baitapcuoiki\WebShop\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Tranchi\Downloads\btcuoiki\baitapcuoiki\WebShop\bin\System.Web.WebPages.dll
+C:\Users\Tranchi\Downloads\btcuoiki\baitapcuoiki\WebShop\bin\System.Web.WebPages.Razor.dll
+C:\Users\Tranchi\Downloads\btcuoiki\baitapcuoiki\WebShop\bin\WebGrease.dll
+C:\Users\Tranchi\Downloads\btcuoiki\baitapcuoiki\WebShop\bin\baitapcuoiki.pdb
+C:\Users\Tranchi\Downloads\btcuoiki\baitapcuoiki\WebShop\bin\baitapcuoiki.dll.config
+C:\Users\Tranchi\Downloads\btcuoiki\baitapcuoiki\WebShop\bin\EntityFramework.xml
+C:\Users\Tranchi\Downloads\btcuoiki\baitapcuoiki\WebShop\bin\EntityFramework.SqlServer.xml
+C:\Users\Tranchi\Downloads\btcuoiki\baitapcuoiki\WebShop\bin\System.Web.Helpers.xml
+C:\Users\Tranchi\Downloads\btcuoiki\baitapcuoiki\WebShop\bin\System.Web.Mvc.xml
+C:\Users\Tranchi\Downloads\btcuoiki\baitapcuoiki\WebShop\bin\System.Web.Optimization.xml
+C:\Users\Tranchi\Downloads\btcuoiki\baitapcuoiki\WebShop\bin\System.Web.Razor.xml
+C:\Users\Tranchi\Downloads\btcuoiki\baitapcuoiki\WebShop\bin\System.Web.WebPages.xml
+C:\Users\Tranchi\Downloads\btcuoiki\baitapcuoiki\WebShop\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Tranchi\Downloads\btcuoiki\baitapcuoiki\WebShop\bin\System.Web.WebPages.Razor.xml
+C:\Users\Tranchi\Downloads\btcuoiki\baitapcuoiki\WebShop\bin\Newtonsoft.Json.xml
+C:\Users\Tranchi\Downloads\btcuoiki\baitapcuoiki\WebShop\bin\Antlr3.Runtime.pdb
+C:\Users\Tranchi\Downloads\btcuoiki\baitapcuoiki\WebShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Tranchi\Downloads\btcuoiki\baitapcuoiki\WebShop\obj\Debug\WebShop.csprojAssemblyReference.cache
+C:\Users\Tranchi\Downloads\btcuoiki\baitapcuoiki\WebShop\obj\Debug\WebShop.csproj.CoreCompileInputs.cache
+C:\Users\Tranchi\Downloads\btcuoiki\baitapcuoiki\WebShop\obj\Debug\WebShop.csproj.CopyComplete
+C:\Users\Tranchi\Downloads\btcuoiki\baitapcuoiki\WebShop\obj\Debug\WebShop.dll
+C:\Users\Tranchi\Downloads\btcuoiki\baitapcuoiki\WebShop\obj\Debug\WebShop.pdb
+C:\Users\Tranchi\Downloads\btcuoiki\baitapcuoiki\WebShop\bin\PagedList.dll
+C:\Users\Tranchi\Downloads\btcuoiki\baitapcuoiki\WebShop\bin\PagedList.Mvc.dll
+C:\Users\Tranchi\Downloads\btcuoiki\baitapcuoiki\WebShop\bin\PagedList.xml
+C:\Users\Tranchi\Downloads\btcuoiki\baitapcuoiki\WebShop\bin\PagedList.Mvc.xml
+E:\baitapcuoiki\baitapcuoiki\WebShop\obj\Debug\WebShop.csprojAssemblyReference.cache
+E:\baitapcuoiki\baitapcuoiki\WebShop\obj\Debug\WebShop.csproj.CoreCompileInputs.cache
+E:\baitapcuoiki\baitapcuoiki\WebShop\obj\Debug\WebShop.dll
+E:\baitapcuoiki\baitapcuoiki\WebShop\obj\Debug\WebShop.pdb
+E:\baitapcuoiki\baitapcuoiki\WebShop\bin\WebShop.dll.config
+E:\baitapcuoiki\baitapcuoiki\WebShop\bin\WebShop.dll
+E:\baitapcuoiki\baitapcuoiki\WebShop\bin\WebShop.pdb
+E:\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\csc.exe
+E:\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\csc.exe.config
+E:\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\csc.rsp
+E:\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\csi.exe
+E:\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\csi.exe.config
+E:\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\csi.rsp
+E:\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\Microsoft.Managed.Core.targets
+E:\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\System.AppContext.dll
+E:\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\System.Collections.Immutable.dll
+E:\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\System.Console.dll
+E:\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\System.Globalization.Calendars.dll
+E:\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\System.IO.Compression.dll
+E:\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\System.IO.FileSystem.dll
+E:\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\System.Net.Http.dll
+E:\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\System.Net.Sockets.dll
+E:\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\System.Reflection.Metadata.dll
+E:\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\System.ValueTuple.dll
+E:\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\System.Xml.XmlDocument.dll
+E:\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\System.Xml.XPath.dll
+E:\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\vbc.exe
+E:\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\vbc.exe.config
+E:\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\vbc.rsp
+E:\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\VBCSCompiler.exe
+E:\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\VBCSCompiler.exe.config
+E:\baitapcuoiki\baitapcuoiki\WebShop\bin\Antlr3.Runtime.dll
+E:\baitapcuoiki\baitapcuoiki\WebShop\bin\baitapcuoiki.dll
+E:\baitapcuoiki\baitapcuoiki\WebShop\bin\EntityFramework.dll
+E:\baitapcuoiki\baitapcuoiki\WebShop\bin\EntityFramework.SqlServer.dll
+E:\baitapcuoiki\baitapcuoiki\WebShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\baitapcuoiki\baitapcuoiki\WebShop\bin\Microsoft.Web.Infrastructure.dll
+E:\baitapcuoiki\baitapcuoiki\WebShop\bin\Newtonsoft.Json.dll
+E:\baitapcuoiki\baitapcuoiki\WebShop\bin\PagedList.dll
+E:\baitapcuoiki\baitapcuoiki\WebShop\bin\PagedList.Mvc.dll
+E:\baitapcuoiki\baitapcuoiki\WebShop\bin\System.Web.Helpers.dll
+E:\baitapcuoiki\baitapcuoiki\WebShop\bin\System.Web.Mvc.dll
+E:\baitapcuoiki\baitapcuoiki\WebShop\bin\System.Web.Optimization.dll
+E:\baitapcuoiki\baitapcuoiki\WebShop\bin\System.Web.Razor.dll
+E:\baitapcuoiki\baitapcuoiki\WebShop\bin\System.Web.WebPages.Deployment.dll
+E:\baitapcuoiki\baitapcuoiki\WebShop\bin\System.Web.WebPages.dll
+E:\baitapcuoiki\baitapcuoiki\WebShop\bin\System.Web.WebPages.Razor.dll
+E:\baitapcuoiki\baitapcuoiki\WebShop\bin\WebGrease.dll
+E:\baitapcuoiki\baitapcuoiki\WebShop\bin\baitapcuoiki.pdb
+E:\baitapcuoiki\baitapcuoiki\WebShop\bin\baitapcuoiki.dll.config
+E:\baitapcuoiki\baitapcuoiki\WebShop\bin\EntityFramework.xml
+E:\baitapcuoiki\baitapcuoiki\WebShop\bin\EntityFramework.SqlServer.xml
+E:\baitapcuoiki\baitapcuoiki\WebShop\bin\PagedList.xml
+E:\baitapcuoiki\baitapcuoiki\WebShop\bin\PagedList.Mvc.xml
+E:\baitapcuoiki\baitapcuoiki\WebShop\bin\System.Web.Helpers.xml
+E:\baitapcuoiki\baitapcuoiki\WebShop\bin\System.Web.Mvc.xml
+E:\baitapcuoiki\baitapcuoiki\WebShop\bin\System.Web.Optimization.xml
+E:\baitapcuoiki\baitapcuoiki\WebShop\bin\System.Web.Razor.xml
+E:\baitapcuoiki\baitapcuoiki\WebShop\bin\System.Web.WebPages.xml
+E:\baitapcuoiki\baitapcuoiki\WebShop\bin\System.Web.WebPages.Deployment.xml
+E:\baitapcuoiki\baitapcuoiki\WebShop\bin\System.Web.WebPages.Razor.xml
+E:\baitapcuoiki\baitapcuoiki\WebShop\bin\Newtonsoft.Json.xml
+E:\baitapcuoiki\baitapcuoiki\WebShop\bin\Antlr3.Runtime.pdb
+E:\baitapcuoiki\baitapcuoiki\WebShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\baitapcuoiki\baitapcuoiki\WebShop\obj\Debug\WebShop.csproj.CopyComplete
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\obj\Debug\WebShop.csprojAssemblyReference.cache
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\obj\Debug\WebShop.csproj.CoreCompileInputs.cache
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\obj\Debug\WebShop.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\obj\Debug\WebShop.pdb
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\WebShop.dll.config
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\WebShop.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\WebShop.pdb
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\csc.exe
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\csc.exe.config
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\csc.rsp
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\csi.exe
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\csi.exe.config
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\csi.rsp
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\Microsoft.Managed.Core.targets
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\System.AppContext.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\System.Collections.Immutable.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\System.Console.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\System.Globalization.Calendars.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\System.IO.Compression.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\System.IO.FileSystem.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\System.Net.Http.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\System.Net.Sockets.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\System.Reflection.Metadata.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\System.ValueTuple.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\System.Xml.XmlDocument.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\System.Xml.XPath.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\vbc.exe
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\vbc.exe.config
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\vbc.rsp
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\VBCSCompiler.exe
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\VBCSCompiler.exe.config
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\Antlr3.Runtime.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\baitapcuoiki.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\EntityFramework.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\EntityFramework.SqlServer.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\Microsoft.Web.Infrastructure.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\Newtonsoft.Json.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\PagedList.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\PagedList.Mvc.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\System.Web.Helpers.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\System.Web.Mvc.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\System.Web.Optimization.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\System.Web.Razor.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\System.Web.WebPages.Deployment.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\System.Web.WebPages.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\System.Web.WebPages.Razor.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\WebGrease.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\baitapcuoiki.pdb
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\baitapcuoiki.dll.config
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\EntityFramework.xml
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\EntityFramework.SqlServer.xml
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\PagedList.xml
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\PagedList.Mvc.xml
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\System.Web.Helpers.xml
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\System.Web.Mvc.xml
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\System.Web.Optimization.xml
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\System.Web.Razor.xml
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\System.Web.WebPages.xml
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\System.Web.WebPages.Deployment.xml
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\System.Web.WebPages.Razor.xml
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\Newtonsoft.Json.xml
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\Antlr3.Runtime.pdb
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\obj\Debug\WebShop.csproj.CopyComplete
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\WebShop.dll.config
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\WebShop.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\WebShop.pdb
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\csc.exe
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\csc.exe.config
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\csc.rsp
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\csi.exe
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\csi.exe.config
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\csi.rsp
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\Microsoft.Managed.Core.targets
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\System.AppContext.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\System.Collections.Immutable.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\System.Console.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\System.Globalization.Calendars.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\System.IO.Compression.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\System.IO.FileSystem.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\System.Net.Http.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\System.Net.Sockets.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\System.Reflection.Metadata.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\System.ValueTuple.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\System.Xml.XmlDocument.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\System.Xml.XPath.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\vbc.exe
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\vbc.exe.config
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\vbc.rsp
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\VBCSCompiler.exe
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\roslyn\VBCSCompiler.exe.config
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\Antlr3.Runtime.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\baitapcuoiki.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\EntityFramework.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\EntityFramework.SqlServer.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\Microsoft.Web.Infrastructure.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\Newtonsoft.Json.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\PagedList.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\PagedList.Mvc.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\System.Web.Helpers.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\System.Web.Mvc.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\System.Web.Optimization.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\System.Web.Razor.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\System.Web.WebPages.Deployment.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\System.Web.WebPages.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\System.Web.WebPages.Razor.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\WebGrease.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\baitapcuoiki.pdb
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\baitapcuoiki.dll.config
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\EntityFramework.xml
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\EntityFramework.SqlServer.xml
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\PagedList.xml
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\PagedList.Mvc.xml
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\System.Web.Helpers.xml
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\System.Web.Mvc.xml
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\System.Web.Optimization.xml
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\System.Web.Razor.xml
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\System.Web.WebPages.xml
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\System.Web.WebPages.Deployment.xml
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\System.Web.WebPages.Razor.xml
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\Newtonsoft.Json.xml
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\Antlr3.Runtime.pdb
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\obj\Debug\WebShop.csprojAssemblyReference.cache
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\obj\Debug\WebShop.csproj.CoreCompileInputs.cache
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\obj\Debug\WebShop.csproj.CopyComplete
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\obj\Debug\WebShop.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\WebShop\obj\Debug\WebShop.pdb

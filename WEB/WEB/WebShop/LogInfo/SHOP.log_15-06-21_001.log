@@ -1,0 +1,20 @@
+
+[Information] == [15/06/2021 05:27:39 PM]
+Product -- Create-Post
+System.Data.Entity.Validation.DbEntityValidationException: Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+   at System.Data.Entity.Internal.InternalContext.SaveChanges()
+   at System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   at System.Data.Entity.DbContext.SaveChanges()
+   at baitapcuoiki.DAO.ProductDao.Insert(Product entityUser) in E:\WEB\WEB\baitapcuoiki\DAO\ProductDao.cs:line 39
+   at WebShop.Areas.Admin.Controllers.ProductController.Create(Product model) in E:\WEB\WEB\WebShop\Areas\Admin\Controllers\ProductController.cs:line 76
+
+
+[Information] == [15/06/2021 05:27:41 PM]
+Product -- Create-Post
+System.Data.Entity.Validation.DbEntityValidationException: Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+   at System.Data.Entity.Internal.InternalContext.SaveChanges()
+   at System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   at System.Data.Entity.DbContext.SaveChanges()
+   at baitapcuoiki.DAO.ProductDao.Insert(Product entityUser) in E:\WEB\WEB\baitapcuoiki\DAO\ProductDao.cs:line 39
+   at WebShop.Areas.Admin.Controllers.ProductController.Create(Product model) in E:\WEB\WEB\WebShop\Areas\Admin\Controllers\ProductController.cs:line 76
+

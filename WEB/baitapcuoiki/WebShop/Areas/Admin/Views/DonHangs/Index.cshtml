@@ -1,0 +1,87 @@
+﻿@model PagedList.IPagedList<baitapcuoiki.EF.HOADON>
+@using PagedList.Mvc
+@using PagedList
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+@section header{
+    <i class="fa fa-user"></i>&nbsp;Quản Lý Đơn Hàng
+}
+
+@using (Html.BeginForm("Index", "DonHangs", FormMethod.Post))
+{
+
+    <div class="col-lg-12" form-group>
+        <div class="col-md-6">
+            @Html.ActionLink("Tạo Mới", "Create", "DonHangs", new { @class = "btn btn-danger" })
+
+        </div>
+        <div class="col-md-4">
+            <input type="text" value="@ViewBag.SearchString" name="searchString" placeholder="Nhập từ khóa cần tìm" class="form-control" />
+        </div>
+        <div class="col-md-2">
+            <input type="submit" value="Tìm Kiếm" class="btn btn-default" />
+        </div>
+    </div>
+}
+    <div class="col-lg-12" form-group, style="margin-top: 15px">
+        <table class="table">
+            <tr>
+                <td>STT</td>
+                <td> Cấu hình</td>
+                <td> Mã đơn</td>
+                <th>
+                    Ngày
+                </th>
+                <th>
+                    Mã Khách Hàng
+                </th>
+                <th>
+                    Mã Nhân Viên
+                </th>
+                <th>
+                    Trị Giá
+                </th>
+                <th></th>
+            </tr>
+            @{ var i = 1;}
+            @foreach (var item in Model)
+            {
+
+                <tr id="  row_@item.SOHD">
+                    <td>@i</td>
+                    <td>
+                        <a href="~/Admin/SanPhams/Create/@item.SOHD"><i class="fa fa-refresh"></i></a>&nbsp;
+                        @Ajax.ActionLink("Xóa","Delete", new { @SOHD = item.SOHD}, new AjaxOptions
+                 {
+                Confirm= "Bạn có muốn xóa bản ghi này ?",
+                OnComplete ="$('#row_"+item.SOHD+"').remove()",
+                HttpMethod = "Delete"
+                 }, new { @class ="glyphicon glyphicon-trash"}
+                )
+                    </td>
+                    
+                    <td>@item.SOHD</td>
+                    <td>
+                        @item.NGHD
+                    </td>
+                    <td>
+                        @item.MAKH
+                    </td>
+                    <td>
+                        @item.MANV
+                    </td>
+                    <td>
+                        @item.TRIGIA
+                    </td>
+
+                </tr>
+                i++;
+            }
+
+        </table>
+        @Html.PagedListPager((IPagedList)Model, page => Url.Action("Index", new { page, @searchString = @ViewBag.SearchString }))
+    </div>

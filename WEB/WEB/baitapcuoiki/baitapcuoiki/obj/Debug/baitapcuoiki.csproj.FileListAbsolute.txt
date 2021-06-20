@@ -1,0 +1,88 @@
+C:\Users\Tranchi\OneDrive\Máy tính\bt cuoi ki\baitapcuoiki\baitapcuoiki\bin\Debug\baitapcuoiki.dll.config
+C:\Users\Tranchi\OneDrive\Máy tính\bt cuoi ki\baitapcuoiki\baitapcuoiki\bin\Debug\baitapcuoiki.dll
+C:\Users\Tranchi\OneDrive\Máy tính\bt cuoi ki\baitapcuoiki\baitapcuoiki\bin\Debug\baitapcuoiki.pdb
+C:\Users\Tranchi\OneDrive\Máy tính\bt cuoi ki\baitapcuoiki\baitapcuoiki\bin\Debug\EntityFramework.dll
+C:\Users\Tranchi\OneDrive\Máy tính\bt cuoi ki\baitapcuoiki\baitapcuoiki\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Tranchi\OneDrive\Máy tính\bt cuoi ki\baitapcuoiki\baitapcuoiki\bin\Debug\EntityFramework.xml
+C:\Users\Tranchi\OneDrive\Máy tính\bt cuoi ki\baitapcuoiki\baitapcuoiki\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Tranchi\OneDrive\Máy tính\bt cuoi ki\baitapcuoiki\baitapcuoiki\obj\Debug\baitapcuoiki.csprojAssemblyReference.cache
+C:\Users\Tranchi\OneDrive\Máy tính\bt cuoi ki\baitapcuoiki\baitapcuoiki\obj\Debug\baitapcuoiki.csproj.CoreCompileInputs.cache
+C:\Users\Tranchi\OneDrive\Máy tính\bt cuoi ki\baitapcuoiki\baitapcuoiki\obj\Debug\baitapcuoiki.csproj.CopyComplete
+C:\Users\Tranchi\OneDrive\Máy tính\bt cuoi ki\baitapcuoiki\baitapcuoiki\obj\Debug\baitapcuoiki.dll
+C:\Users\Tranchi\OneDrive\Máy tính\bt cuoi ki\baitapcuoiki\baitapcuoiki\obj\Debug\baitapcuoiki.pdb
+C:\Users\Tranchi\Downloads\bt cuoi ki\baitapcuoiki\baitapcuoiki\bin\Debug\baitapcuoiki.dll.config
+C:\Users\Tranchi\Downloads\bt cuoi ki\baitapcuoiki\baitapcuoiki\bin\Debug\baitapcuoiki.dll
+C:\Users\Tranchi\Downloads\bt cuoi ki\baitapcuoiki\baitapcuoiki\bin\Debug\baitapcuoiki.pdb
+C:\Users\Tranchi\Downloads\bt cuoi ki\baitapcuoiki\baitapcuoiki\bin\Debug\EntityFramework.dll
+C:\Users\Tranchi\Downloads\bt cuoi ki\baitapcuoiki\baitapcuoiki\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Tranchi\Downloads\bt cuoi ki\baitapcuoiki\baitapcuoiki\bin\Debug\EntityFramework.xml
+C:\Users\Tranchi\Downloads\bt cuoi ki\baitapcuoiki\baitapcuoiki\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Tranchi\Downloads\bt cuoi ki\baitapcuoiki\baitapcuoiki\obj\Debug\baitapcuoiki.csprojAssemblyReference.cache
+C:\Users\Tranchi\Downloads\bt cuoi ki\baitapcuoiki\baitapcuoiki\obj\Debug\baitapcuoiki.csproj.CoreCompileInputs.cache
+C:\Users\Tranchi\Downloads\bt cuoi ki\baitapcuoiki\baitapcuoiki\obj\Debug\baitapcuoiki.csproj.CopyComplete
+C:\Users\Tranchi\Downloads\bt cuoi ki\baitapcuoiki\baitapcuoiki\obj\Debug\baitapcuoiki.dll
+C:\Users\Tranchi\Downloads\bt cuoi ki\baitapcuoiki\baitapcuoiki\obj\Debug\baitapcuoiki.pdb
+C:\Users\Tranchi\Downloads\btcuoiki\baitapcuoiki\baitapcuoiki\bin\Debug\baitapcuoiki.dll.config
+C:\Users\Tranchi\Downloads\btcuoiki\baitapcuoiki\baitapcuoiki\bin\Debug\baitapcuoiki.dll
+C:\Users\Tranchi\Downloads\btcuoiki\baitapcuoiki\baitapcuoiki\bin\Debug\baitapcuoiki.pdb
+C:\Users\Tranchi\Downloads\btcuoiki\baitapcuoiki\baitapcuoiki\bin\Debug\EntityFramework.dll
+C:\Users\Tranchi\Downloads\btcuoiki\baitapcuoiki\baitapcuoiki\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Tranchi\Downloads\btcuoiki\baitapcuoiki\baitapcuoiki\bin\Debug\EntityFramework.xml
+C:\Users\Tranchi\Downloads\btcuoiki\baitapcuoiki\baitapcuoiki\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Tranchi\Downloads\btcuoiki\baitapcuoiki\baitapcuoiki\obj\Debug\baitapcuoiki.csprojAssemblyReference.cache
+C:\Users\Tranchi\Downloads\btcuoiki\baitapcuoiki\baitapcuoiki\obj\Debug\baitapcuoiki.csproj.CoreCompileInputs.cache
+C:\Users\Tranchi\Downloads\btcuoiki\baitapcuoiki\baitapcuoiki\obj\Debug\baitapcuoiki.csproj.CopyComplete
+C:\Users\Tranchi\Downloads\btcuoiki\baitapcuoiki\baitapcuoiki\obj\Debug\baitapcuoiki.dll
+C:\Users\Tranchi\Downloads\btcuoiki\baitapcuoiki\baitapcuoiki\obj\Debug\baitapcuoiki.pdb
+C:\Users\Tranchi\Downloads\btcuoiki\baitapcuoiki\baitapcuoiki\bin\Debug\PagedList.dll
+C:\Users\Tranchi\Downloads\btcuoiki\baitapcuoiki\baitapcuoiki\bin\Debug\PagedList.Mvc.dll
+C:\Users\Tranchi\Downloads\btcuoiki\baitapcuoiki\baitapcuoiki\bin\Debug\PagedList.xml
+C:\Users\Tranchi\Downloads\btcuoiki\baitapcuoiki\baitapcuoiki\bin\Debug\PagedList.Mvc.xml
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\obj\Debug\baitapcuoiki.csprojAssemblyReference.cache
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\obj\Debug\baitapcuoiki.csproj.CoreCompileInputs.cache
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\obj\Debug\baitapcuoiki.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\obj\Debug\baitapcuoiki.pdb
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\bin\Debug\baitapcuoiki.dll.config
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\bin\Debug\baitapcuoiki.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\bin\Debug\baitapcuoiki.pdb
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\bin\Debug\EntityFramework.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\bin\Debug\EntityFramework.SqlServer.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\bin\Debug\PagedList.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\bin\Debug\PagedList.Mvc.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\bin\Debug\EntityFramework.xml
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\bin\Debug\EntityFramework.SqlServer.xml
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\bin\Debug\PagedList.xml
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\bin\Debug\PagedList.Mvc.xml
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\obj\Debug\baitapcuoiki.csproj.CopyComplete
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\bin\Debug\baitapcuoiki.dll.config
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\bin\Debug\baitapcuoiki.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\bin\Debug\baitapcuoiki.pdb
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\bin\Debug\EntityFramework.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\bin\Debug\EntityFramework.SqlServer.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\bin\Debug\PagedList.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\bin\Debug\PagedList.Mvc.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\bin\Debug\EntityFramework.xml
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\bin\Debug\EntityFramework.SqlServer.xml
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\bin\Debug\PagedList.xml
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\bin\Debug\PagedList.Mvc.xml
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\obj\Debug\baitapcuoiki.csprojAssemblyReference.cache
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\obj\Debug\baitapcuoiki.csproj.CoreCompileInputs.cache
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\obj\Debug\baitapcuoiki.csproj.CopyComplete
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\obj\Debug\baitapcuoiki.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\obj\Debug\baitapcuoiki.pdb
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\bin\Debug\baitapcuoiki.dll.config
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\bin\Debug\baitapcuoiki.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\bin\Debug\baitapcuoiki.pdb
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\bin\Debug\EntityFramework.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\bin\Debug\EntityFramework.SqlServer.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\bin\Debug\PagedList.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\bin\Debug\PagedList.Mvc.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\bin\Debug\EntityFramework.xml
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\bin\Debug\EntityFramework.SqlServer.xml
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\bin\Debug\PagedList.xml
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\bin\Debug\PagedList.Mvc.xml
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\obj\Debug\baitapcuoiki.csprojAssemblyReference.cache
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\obj\Debug\baitapcuoiki.csproj.CoreCompileInputs.cache
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\obj\Debug\baitapcuoiki.csproj.CopyComplete
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\obj\Debug\baitapcuoiki.dll
+E:\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\baitapcuoiki\obj\Debug\baitapcuoiki.pdb

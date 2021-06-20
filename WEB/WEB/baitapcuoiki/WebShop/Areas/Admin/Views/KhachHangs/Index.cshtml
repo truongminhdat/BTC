@@ -1,0 +1,100 @@
+﻿@model PagedList.IPagedList<baitapcuoiki.EF.KHACHHANG>
+@using PagedList.Mvc
+@using PagedList
+
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+@section header{
+    <i class="fa fa-user"></i>&nbsp;Quản Lý Khách Hàng
+}
+@using (Html.BeginForm("Index", "KhachHangs", FormMethod.Post))
+{
+
+    <div class="col-lg-12" form-group>
+        <div class="col-md-6">
+            @Html.ActionLink("Tạo Mới", "Create", "KhachHangs", new { @class = "btn btn-danger" })
+
+        </div>
+        <div class="col-md-4">
+            <input type="text" value="@ViewBag.SearchString" name="searchString" placeholder="Nhập từ khóa cần tìm" class="form-control" />
+        </div>
+        <div class="col-md-2">
+            <input type="submit" value="Tìm Kiếm" class="btn btn-default" />
+        </div>
+    </div>
+}
+    <div class="col-lg-12" form-group, style="margin-top: 15px">
+        <table class="table">
+            <tr>
+                <th> STT</th>
+                <th> Cấu hình
+                </th>
+                <th> Mã Khách Hàng</th>
+            
+                <th>
+                    Tên Khách Hàng
+                </th>
+                <th>
+                    Địa Chỉ
+                </th>
+                <th>
+                    Số điện thoại
+                </th>
+                <th>
+                    Ngày sinh
+                </th>
+                <th>
+                    Ngày Đăng Kí
+                </th>
+                <th>
+                    Doanh số
+                </th>
+                <th></th>
+            </tr>
+            @{ var i = 1;}
+            @foreach (var item in Model)
+            {
+                <tr id="  row_@item.MAKH">
+                    <td>@i</td>
+                    <td>
+                        <a href="~/Admin/KhachHangs/Create/@item.MAKH"><i class="fa fa-refresh"></i></a>&nbsp;
+                        @Ajax.ActionLink("Xóa","Delete", new { @MAKH = item.MAKH}, new AjaxOptions
+                 {
+                Confirm= "Bạn có muốn xóa bản ghi này ?",
+                OnComplete ="$('#row_"+item.MAKH+"').remove()",
+                HttpMethod = "Delete"
+                 }, new { @class ="glyphicon glyphicon-trash"}
+                )
+                    <td>
+                        @item.MAKH
+                    </td>
+                    <td>
+                        @item.TENKH
+                    </td>
+                    <td>
+                        @item.DiaChi
+                    </td>
+                    <td>
+                        @item.SoDT
+                    </td>
+                    <td>
+                        @item.NGSINH
+                    </td>
+                    <td>
+                        @item.NGDK
+                    </td>
+                    <td>
+                        @item.DOANHSO
+                    </td>
+
+                </tr>
+                i++;
+            }
+
+        </table>
+        @Html.PagedListPager((IPagedList)Model, page => Url.Action("Index", new { page, @searchString = @ViewBag.SearchString }))
+    </div>

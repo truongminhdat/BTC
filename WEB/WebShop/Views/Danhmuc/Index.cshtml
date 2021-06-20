@@ -1,0 +1,49 @@
+﻿@using baitapcuoiki.EF
+@model List<Product>
+
+@{
+    ViewBag.Title = "Index";
+  
+}
+
+<div class="content">
+    <div class="content_top">
+        <div class="heading">
+            <h3>Danh Mục Sản Phẩm</h3>
+        </div>
+        <div class="see">
+            <p><a href="#">See all Products</a></p>
+        </div>
+        <div class="clear"></div>
+    </div>
+    <div class="section group">
+
+        @foreach (var item in Model)
+        {
+
+            <div class="table-bordered">
+                <div class="col-md-4" style="float:left">
+                    
+                    <img src="@Url.Content("~/HinhanhSP/" +item.Image)" width="250" height="300" />
+
+                    <h2>@item.Name</h2>
+
+                    <div class="price-details">
+                        <div class="price-number">
+                            <p><span class="rupees">@(item.UnitCost.HasValue ? item.UnitCost.Value.ToString("N0") : "Liên hệ")</span></p>
+                        </div>
+                        <div class="add-cart">
+                            <h4><a href="/gio-hang/@item.ID">Thêm vào giỏ</a></h4>
+                        </div>
+                        <div class="clear"></div>
+                    </div>
+                </div>
+
+            </div>
+
+        }
+
+
+
+    </div>
+</div>

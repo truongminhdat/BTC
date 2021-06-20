@@ -1,0 +1,43 @@
+﻿@model IEnumerable<baitapcuoiki.EF.CTHD>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+@section header{
+    <i class="fa fa-user"></i>&nbsp;Quản Lý Sản Phẩm
+}
+
+<div class="col-lg-12" form-group, style="margin-top: 15px">
+    <table class="table">
+        <tr>
+            <th>Mã hóa đơn</th>
+            <th>
+                Mã Sản Phẩm
+            </th>
+            <th>
+                Số Lượng
+            </th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td> @Html.DisplayFor(modelItem => item.SOHD)</td>
+                <td> @Html.DisplayFor(modelItem => item.MASP)</td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.SL)
+                </td>
+
+
+            </tr>
+
+
+
+
+        }
+
+    </table>
+    </div>
